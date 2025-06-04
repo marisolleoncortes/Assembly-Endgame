@@ -167,6 +167,7 @@ button.new-game {
     display: block;
     margin-inline: auto;
     cursor: pointer;
+    color: #1E1E1E;
 }
 
 .sr-only {
